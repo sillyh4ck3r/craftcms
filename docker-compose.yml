@@ -1,0 +1,18 @@
+version: "3.6"
+services:
+  web:
+#    image: craftcms/nginx:8.1-dev
+    build: .
+    ports:
+      - 8080:8080
+    env_file: .env
+    environment:
+      XDEBUG_CONFIG: client_hot=host.docker.internal
+    networks:
+      - my-default
+    volumes:
+      - .:/app
+
+networks:
+  my-default:
+    external: true
