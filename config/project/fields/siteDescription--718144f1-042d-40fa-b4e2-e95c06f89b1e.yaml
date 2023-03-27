@@ -1,0 +1,19 @@
+columnSuffix: kstuuvsg
+contentColumnType: text
+fieldGroup: ec10ddff-3b62-455b-a1d7-ee9ca7695853 # Global Fields
+handle: siteDescription
+instructions: null
+name: 'Site Description'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 1
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

@@ -1,0 +1,19 @@
+columnSuffix: mrpibbhm
+contentColumnType: text
+fieldGroup: 4b4412cf-e0e5-4c89-a63a-0140324ae616 # Blog Post Fields
+handle: summary
+instructions: null
+name: Summary
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 1
+  multiline: true
+  placeholder: 'Enter a brief, one or two sentence post summary.'
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText
