@@ -1,3 +1,11 @@
+# ENVIRONMENT
 /.env
 /xkp.sh
+
+# COMPOSER
 /vendor
+
+# ASSETS
+/web/assets/*
+/web/favicon.*
+
