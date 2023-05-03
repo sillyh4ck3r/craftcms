@@ -1,4 +1,4 @@
-dateModified: 1679911249
+dateModified: 1683092727
 fs:
   blog:
     hasUrls: true
@@ -25,7 +25,7 @@ meta:
     20d0d8b6-1b32-4e29-a12c-92665bebe26b: Text # Text
     56cfeed1-3920-4ae1-8995-72c1361229e8: Summary # Summary
     87e55a89-e5f5-446e-8875-5fe6b2d26681: 'Post Content' # Post Content
-    92aa9a06-838b-4979-812f-557387093d10: 'Featured Image' # Featured Image
+    92aa9a06-838b-4979-812f-557387093d10: 'Feature Image' # Feature Image
     99e56b56-7101-4380-93b4-d52dfae56c67: General # General
     928cf930-f609-4a56-9b1a-3d2e80f93d35: 'Blog Categories' # Blog Categories
     635578fb-8e5b-4035-b6cd-d06347572851: About # About

@@ -1,9 +1,9 @@
 columnSuffix: null
 contentColumnType: string
 fieldGroup: 4b4412cf-e0e5-4c89-a63a-0140324ae616 # Blog Post Fields
-handle: featuredImage
+handle: featureImage
 instructions: null
-name: 'Featured Image'
+name: 'Feature Image'
 searchable: false
 settings:
   allowSelfRelations: false
@@ -36,7 +36,7 @@ settings:
         - class
         - craft\elements\conditions\assets\AssetCondition
   selectionLabel: null
-  showSiteMenu: false
+  showSiteMenu: true
   showUnpermittedFiles: false
   showUnpermittedVolumes: false
   sources: '*'
