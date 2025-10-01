@@ -19,8 +19,9 @@
     "rss": "https://craftcms.com/changelog.rss"
   },
   "require": {
-    "craftcms/cms": "^4.4.0",
-    "craftcms/redactor": "3.0.4",
+    "craftcms/ckeditor": "3.13.0",
+    "craftcms/cms": "4.15.2",
+    "craftcms/redactor": "3.1.0",
     "vlucas/phpdotenv": "^5.4.0"
   },
   "require-dev": {
@@ -51,5 +52,12 @@
       "@composer dump-autoload -o",
       "@php craft setup/welcome"
     ]
-  }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://composer.craftcms.com",
+      "canonical": false
+    }
+  ]
 }
