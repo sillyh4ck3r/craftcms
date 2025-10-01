@@ -32,23 +32,17 @@ fields:
     settings:
       availableTransforms: ''
       availableVolumes: '*'
+      ckeConfig: 8e8b9b95-5663-4db5-8367-e5cc28cc7096 # Default
       columnType: text
-      configSelectionMode: choose
       defaultTransform: ''
-      manualConfig: ''
+      enableSourceEditingForNonAdmins: false
       purifierConfig: null
       purifyHtml: true
-      redactorConfig: null
-      removeEmptyTags: false
-      removeInlineStyles: false
-      removeNbsp: false
-      showHtmlButtonForNonAdmins: false
       showUnpermittedFiles: false
       showUnpermittedVolumes: false
-      uiMode: enlarged
     translationKeyFormat: null
     translationMethod: none
-    type: craft\redactor\Field
+    type: craft\ckeditor\Field
 handle: text
 name: Text
 sortOrder: 1

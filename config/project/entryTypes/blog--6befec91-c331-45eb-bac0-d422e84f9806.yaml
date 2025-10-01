@@ -85,6 +85,9 @@ handle: blog
 hasTitleField: true
 name: Blog
 section: f6c840f2-6584-4b41-86f1-e757aa3a181b # Blog
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
 sortOrder: 1
 titleFormat: null
 titleTranslationKeyFormat: null

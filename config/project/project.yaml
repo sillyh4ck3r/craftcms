@@ -1,4 +1,4 @@
-dateModified: 1683092727
+dateModified: 1746412167
 fs:
   blog:
     hasUrls: true
@@ -17,17 +17,21 @@ fs:
 meta:
   __names__:
     01d3f49f-eb1b-4218-927e-5587beadabb9: About # About
+    2a774245-3d7e-43cb-8d80-038b78bac30e: 'Public Schema' # Public Schema
     3c0a6449-479d-488e-9e12-b3af349e7ae4: Text # Text
     4b4412cf-e0e5-4c89-a63a-0140324ae616: 'Blog Post Fields' # Blog Post Fields
     4f9c0ca0-67d8-432a-88e7-dea2320eba7f: Blog # Blog
+    05c23be4-782a-4c48-a0b7-32c4cafd2b56: sillyh4ck3r # sillyh4ck3r
     6befec91-c331-45eb-bac0-d422e84f9806: Blog # Blog
     6efce096-1a85-4801-b939-d204812f9629: 'Post Categories' # Post Categories
+    8e8b9b95-5663-4db5-8367-e5cc28cc7096: Default # Default
     20d0d8b6-1b32-4e29-a12c-92665bebe26b: Text # Text
     56cfeed1-3920-4ae1-8995-72c1361229e8: Summary # Summary
     87e55a89-e5f5-446e-8875-5fe6b2d26681: 'Post Content' # Post Content
     92aa9a06-838b-4979-812f-557387093d10: 'Feature Image' # Feature Image
     99e56b56-7101-4380-93b4-d52dfae56c67: General # General
     928cf930-f609-4a56-9b1a-3d2e80f93d35: 'Blog Categories' # Blog Categories
+    1987ba12-7fc9-4dfc-9709-236bfee82ac6: sillyh4ck3r # sillyh4ck3r
     635578fb-8e5b-4035-b6cd-d06347572851: About # About
     718144f1-042d-40fa-b4e2-e95c06f89b1e: 'Site Description' # Site Description
     cfb0108c-962b-402e-8904-3ea93c4bac45: Image # Image
@@ -37,8 +41,16 @@ meta:
     ed60f682-1589-43f4-8702-5916308d287c: 'Singles Fields' # Singles Fields
     ed3043ff-a25e-4b38-93b2-c988aa501bfb: Image # Image
     f6c840f2-6584-4b41-86f1-e757aa3a181b: Blog # Blog
+    f500bb86-c54f-4379-80f7-f65f19e0fd34: Simple # Simple
+    f871e920-9f97-40c6-aa3b-8becd2b2210a: Common # Common
 plugins:
-  redactor:
+  ckeditor:
     edition: standard
     enabled: true
-    schemaVersion: 2.3.0
+    schemaVersion: 3.0.0.0
+system:
+  live: true
+  name: ''
+  retryDuration: null
+  schemaVersion: 4.15.0.0
+  timeZone: UTC

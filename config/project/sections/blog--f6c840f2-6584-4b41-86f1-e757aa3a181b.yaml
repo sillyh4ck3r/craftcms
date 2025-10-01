@@ -4,7 +4,7 @@ handle: blog
 name: Blog
 propagationMethod: all
 siteSettings:
-  1987ba12-7fc9-4dfc-9709-236bfee82ac6:
+  1987ba12-7fc9-4dfc-9709-236bfee82ac6: # sillyh4ck3r
     enabledByDefault: true
     hasUrls: true
     template: blog/_entry
